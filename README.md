@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Sri-Charan-Reddy
-- 👀 I’m interested in ... cycling
+- 👀 I’m interested in ... Back-end programming
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... charan.mavuluru@gmail.com
